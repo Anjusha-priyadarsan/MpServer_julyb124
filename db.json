@@ -1,0 +1,77 @@
+{
+  "allVideos": [
+    {
+      "id": "ce64",
+      "caption": "Avatar",
+      "imageURL": "https://m.media-amazon.com/images/I/61l4F+4vu8L._AC_UF1000,1000_QL80_.jpg",
+      "utubeURL": "https://www.youtube.com/embed/bDHD1ueL4a4"
+    },
+    {
+      "id": "0ff5",
+      "caption": "Amaran",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAZjYM1pggqvN9B9L-ssNGrj-PMvTHdnBang&s",
+      "utubeURL": "https://www.youtube.com/embed/KHZb0WZijQs"
+    }
+  ],
+  "allcategory": [
+    {
+      "id": "9a0a",
+      "categoryName": "Trailer",
+      "allVideos": [
+        {
+          "id": "7ddc",
+          "caption": "Avesham",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DPdfeuBM8O4bCRd57Lzh-JhVBqAcIdUxZw&s",
+          "utubeURL": "https://www.youtube.com/embed/tOM-nWPcR4U"
+        }
+      ]
+    },
+    {
+      "id": "5715",
+      "categoryName": "tutorilas",
+      "allVideos": [
+        {
+          "id": "ce64",
+          "caption": "Avatar",
+          "imageURL": "https://m.media-amazon.com/images/I/61l4F+4vu8L._AC_UF1000,1000_QL80_.jpg",
+          "utubeURL": "https://www.youtube.com/embed/bDHD1ueL4a4"
+        }
+      ]
+    },
+    {
+      "id": "8cc1",
+      "categoryName": "Hindi",
+      "allVideos": []
+    },
+    {
+      "id": "2a75",
+      "categoryName": "Hindi",
+      "allVideos": []
+    },
+    {
+      "id": "6966",
+      "categoryName": "films",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "26c6",
+      "caption": "ARM",
+      "utubeURL": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "formatedDate": "11/12/2024, 10:26:27 AM"
+    },
+    {
+      "id": "1118",
+      "caption": "ARM",
+      "utubeURL": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "formatedDate": "11/14/2024, 10:36:56 AM"
+    },
+    {
+      "id": "0a20",
+      "caption": "ARM",
+      "utubeURL": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "formatedDate": "11/15/2024, 9:22:09 AM"
+    }
+  ]
+}
